@@ -47,9 +47,9 @@
    Apart from the above tasks, there are many other auxiliary pre-training tasks designated to incorporate factual knowledge, improve cross-lingual tasks, multi-modal applications, or other specific tasks.
 
    - 🏄‍♂️Knowledge-enriched PTMs
-- 🤾‍♂️Multilingual and language-specific PTMs
+   - 🤾‍♂️Multilingual and language-specific PTMs
    - 🏋️‍♂️Multi-modal PTMs
-- 🚴‍♀️Domain-specific and task-specific PTMs
+   - 🚴‍♀️Domain-specific and task-specific PTMs
 
 
 
